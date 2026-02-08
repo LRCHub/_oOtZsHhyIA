@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "本当なんてぶっ飛ばしてよ",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-02-08T12:58:08.655379Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本当なんてぶっ飛ばしてよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_本当なんてぶっ飛ばしてよ_クリープハイプ.txt"
+    }
+  ]
+}
